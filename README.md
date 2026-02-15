@@ -1,6 +1,6 @@
 # Hey, I'm Uzair Ahmed
 
-Full-stack engineer who builds production systems — not just prototypes. I work across the stack from React/Next.js frontends to Node.js and FastAPI backends, with a focus on systems that handle real business complexity: workflow engines, ML classification pipelines, voice AI agents, and IoT device management.
+Full-stack engineer who builds production systems, not just prototypes. I work across the stack from React/Next.js frontends to Node.js and FastAPI backends, with a focus on systems that handle real business complexity: workflow engines, ML classification pipelines, voice AI agents, and IoT device management.
 
 Most of my work involves figuring out how to make different systems talk to each other cleanly — whether that's connecting a CLIP-based document classifier to a FastAPI backend as a separate microservice, building a voice agent that scrapes flight data in real-time through a browser pool, or designing a complaint routing engine with multi-stage workflows and automated escalation.
 
