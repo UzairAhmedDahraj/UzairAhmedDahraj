@@ -7,10 +7,15 @@ Most of my work involves figuring out how to make different systems talk to each
 ## What I work with
 
 **Languages:** JavaScript, TypeScript, Python, Java
+
 **Frontend:** React, Next.js (App Router), Tailwind CSS
+
 **Backend:** Node.js, Express, FastAPI, REST APIs
+
 **Databases:** MongoDB, PostgreSQL (Neon), Prisma, SQLAlchemy, Mongoose
+
 **ML/AI:** CLIP (ViT-L/14), scikit-learn, RetellAI, n8n workflow automation
+
 **Infrastructure:** GitHub Actions CI/CD, Docker, Render, Vercel, Cloudinary, Supabase
 
 ## Notable projects
