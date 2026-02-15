@@ -7,7 +7,7 @@ Most of my work involves figuring out how to make different systems talk to each
 ## What I work with
 
 **Languages:** JavaScript, TypeScript, Python, Java
-**Frontend:** React, Next.js (App Router), Tailwind CSS, Material UI, shadcn/ui
+**Frontend:** React, Next.js (App Router), Tailwind CSS
 **Backend:** Node.js, Express, FastAPI, REST APIs
 **Databases:** MongoDB, PostgreSQL (Neon), Prisma, SQLAlchemy, Mongoose
 **ML/AI:** CLIP (ViT-L/14), scikit-learn, RetellAI, n8n workflow automation
@@ -15,17 +15,11 @@ Most of my work involves figuring out how to make different systems talk to each
 
 ## Notable projects
 
-### [Cybernet](https://github.com/UzairAhmedDahraj/Cybernet) — Enterprise ISP Operations Platform
-Full-stack operations system built for a telecom company. Handles customer onboarding workflows, equipment tracking, RF surveys, service provisioning, multi-department reporting (billing, NOC, sales, PMO), and role-based access control. Backend uses a modular handler/route/model pattern with a custom workflow engine and EJS email templates. Frontend is React with Redux-Saga for state management.
-
 ### [PSO Onboarding App](https://github.com/UzairAhmedDahraj/pso-onboarding-app) — Microservices + ML Document Classification
 Business partner onboarding system with an ML-powered document classifier running as a separate microservice. The backend (FastAPI + PostgreSQL) communicates with the ML service (PyTorch + CLIP) asynchronously via httpx. Deployed across Render, Vercel, and Hugging Face Spaces with 4 GitHub Actions CI/CD workflows handling independent deployment pipelines.
 
 ### [ResolveSuite](https://github.com/UzairAhmedDahraj/ResolveSuite) — Complaint Management System
 Multi-tenant complaint management platform with a custom workflow engine that handles stage-based routing, automated escalation, deadline tracking, and email notifications. Built with a proper service layer (WorkflowService, EmailService, NotificationService, OTPService) on the backend. Frontend organizes features by domain (Complaint/, Department/, Workflow/, Feedback/) with shared common components.
-
-### [ClickUp Clone](https://github.com/UzairAhmedDahraj/clickup-nextjs-demo) — Next.js + TypeScript Task Management
-Project management app built with Next.js App Router, MongoDB, and Cloudinary. Full CRUD API with typed responses, query filtering (status, priority, date range, text search), sorting, and task ordering. Uses Mongoose models with proper TypeScript interfaces and a clean route handler pattern.
 
 ### [Flight Search Voice Agent](https://github.com/UzairAhmedDahraj/Custom-Flight-Search-Agent) — RetellAI + Puppeteer
 Voice-based flight search agent that integrates with RetellAI's conversation API. Scrapes live flight data from booking sites using Puppeteer with a managed browser pool, response caching, and a prefetcher for faster results. Built with Express, designed for deployment in DevContainers.
@@ -43,5 +37,5 @@ I also tend to pull ML workloads into separate services rather than bundling hea
 
 I'm open to opportunities involving full-stack development, AI/ML integration, or systems architecture.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair-ahmed-dahraj/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair.ahmed.dahraj/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/UzairAhmedDahraj)
