@@ -42,5 +42,5 @@ I also tend to pull ML workloads into separate services rather than bundling hea
 
 I'm open to opportunities involving full-stack development, AI/ML integration, or systems architecture.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair.ahmed.dahraj/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzairahmeddahraj/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/UzairAhmedDahraj)
